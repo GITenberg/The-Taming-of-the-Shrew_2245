@@ -1,0 +1,35 @@
+_repo: The-Taming-of-the-Shrew_2245
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: The Taming of the Shrew is perhaps one of Shakespeare's most controversial
+  plays by modern standards. Hinging on the courtship between the arrogant Petruchio
+  and the "shrew" of the title Katherina, it is unclear whether Shakespeare's blatantly
+  misogynistic themes were in earnest or tongue in cheek. The charming and tender
+  Bianca is forbidden to marry until her elder sister, Katherine is spoken for. Bianca's
+  suitors enlist Petruchio to woo Katherina for her dowry...
+gutenberg_issued: '2000-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2245'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcsh 'Sex role -- Drama'
+- !lcsh 'Married people -- Drama'
+- !lcc 'PR'
+- !lcsh 'Padua (Italy) -- Drama'
+- !lcsh 'Man-woman relationships -- Drama'
+title: The Taming of the Shrew
+url: http://www.gutenberg.org/ebooks/2245
