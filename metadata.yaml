@@ -1,5 +1,8 @@
 _repo: The-Taming-of-the-Shrew_2245
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare, William
@@ -17,6 +20,8 @@ description: The Taming of the Shrew is perhaps one of Shakespeare's most contro
   misogynistic themes were in earnest or tongue in cheek. The charming and tender
   Bianca is forbidden to marry until her elder sister, Katherine is spoken for. Bianca's
   suitors enlist Petruchio to woo Katherina for her dowry...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2245#The-Taming-of-the-Shrew
 gutenberg_issued: '2000-07-01'
 gutenberg_type: Text
 identifiers:
