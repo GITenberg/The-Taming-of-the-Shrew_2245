@@ -1,5 +1,5 @@
 _repo: The-Taming-of-the-Shrew_2245
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -37,5 +37,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Padua (Italy) -- Drama'
 - !lcsh 'Man-woman relationships -- Drama'
+- GITenberg
 title: The Taming of the Shrew
 url: http://www.gutenberg.org/ebooks/2245
